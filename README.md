@@ -4,7 +4,7 @@
 
 ### This repository contains: 
 
-    -Personal Programming projects
-    -Link to website I created for children interested in computer science
-    -AP Computer Science A final project
+    #### -Personal Programming projects
+    #### -Link to website I created for children interested in computer science
+    #### -AP Computer Science A final project
     
