@@ -1,3 +1,4 @@
+// 1-28-2018 @Sameer Kapoor
 import java.util.Scanner;
 class CountingMachine {
 	public static void main(String[] args) {
