@@ -1,3 +1,4 @@
+// 1-28-2018 @Sameer Kapoor
 import java.util.Scanner;
 class CollatzSequence {
 	public static void main(String[] args) {
