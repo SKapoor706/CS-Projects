@@ -1,3 +1,4 @@
+// 1-7-2018 @Sameer Kapoor
 import java.util.Scanner;
 
 public class NameAgeSalary
