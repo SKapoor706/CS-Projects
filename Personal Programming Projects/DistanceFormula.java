@@ -1,3 +1,4 @@
+// 2-17-2018 @Sameer Kapoor
 class DistanceFormula {
 	public static double findDistance(int x1, int y1, int x2, int y2) {
 		double distance = Math.sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
