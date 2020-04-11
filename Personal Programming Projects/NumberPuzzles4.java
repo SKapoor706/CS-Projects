@@ -1,3 +1,4 @@
+// 2-25-2018 @Sameer Kapoor
 class NumberPuzzles4 {
 	public static void main(String[] args) {
 		for (int a = 0; a < 45; a++) {
