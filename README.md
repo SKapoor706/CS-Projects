@@ -5,6 +5,8 @@
 ### This repository contains: 
    * Personal programming projects
    
+   * Project Euler Solutions
+   
    * Link to website I created for children interested in computer science
    
    * AP Computer Science A final project
