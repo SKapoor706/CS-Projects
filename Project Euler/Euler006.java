@@ -1,3 +1,4 @@
+// 4-4-2018 @Sameer Kapoor
 class Euler006 {
 	public static int sumOfSquares(int n) {
 		int sum1 = 0;
