@@ -1,3 +1,4 @@
+// 4-1-2018 @Sameer Kapoor  
 class Euler003 {
 	public static boolean isPrime(long i) {
 		for (long x = 2; x < i; x++) {
