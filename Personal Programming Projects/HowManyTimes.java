@@ -1,3 +1,4 @@
+// 3-18-2018 @Sameer Kapoor
 import java.util.Random;
 import java.util.Scanner;
 class HowManyTimes {
