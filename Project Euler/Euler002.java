@@ -1,3 +1,4 @@
+// 4-1-2018 @Sameer Kapoor
 class Euler002 {
 	public static void main(String[] args) {
 		int f = 0, g = 1, sum = 0;
