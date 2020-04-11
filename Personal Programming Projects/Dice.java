@@ -1,3 +1,4 @@
+// 1-15-2018 @Sameer Kapoor
 import java.util.Random;
 class Dice {
 	public static void main(String[] args) {
