@@ -1,3 +1,4 @@
+// 2-3-2018 @Sameer Kapoor
 class ForLoopChallenge {
 	public static void main(String[] args) {
 		for(int j = 15; j < 31; j+=3) {
