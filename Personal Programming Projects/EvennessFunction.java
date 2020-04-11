@@ -1,3 +1,4 @@
+// 2-18-2018 @Sameer Kapoor
 class EvennessFunction {
 	public static boolean isEven(int n) {
 		if (n % 2 == 0) 
