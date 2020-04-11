@@ -1,3 +1,4 @@
+// 4-6-2018 @Sameer Kapoor
 class Euler010 {
     public static void main(String[] args) {
         int sum = 0;
