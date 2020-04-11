@@ -1,3 +1,4 @@
+// 2-16-2018 @Sameer Kapoor
 class HeronsFormula {
 	public static double TriangleArea(int a, int b, int c) {
 		double s = (a + b + c) / 2;
