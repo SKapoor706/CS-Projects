@@ -1,3 +1,4 @@
+// 1-9-2018 @Sameer Kapoor
 import java.util.Scanner;
 class MoreUserInputOfData {
 	public static void main(String[] args) {
