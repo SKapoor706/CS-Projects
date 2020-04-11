@@ -1,3 +1,4 @@
+// 3-31-2018 @Sameer Kapoor
 import java.util.Scanner;
 class Calculator {
 	public static double Calculate(double a, double b, String op) {
