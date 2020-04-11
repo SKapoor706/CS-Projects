@@ -1,3 +1,4 @@
+// 2-25-2018 @Sameer Kapoor
 class ArmstrongNumbers {
 	public static void main(String[] args) {
 		for (int h = 1; h <= 9; h++) {
