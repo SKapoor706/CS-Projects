@@ -1,3 +1,4 @@
+// 2-19-2018 @Sameer Kapoor
 class GettingIndividualDigits {
 	public static void main(String[] args) {
 		for (int i = 1; i <= 9; i++) {
