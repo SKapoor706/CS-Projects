@@ -1,3 +1,4 @@
+// 3-31-2018 @Sameer Kapoor
 class Euler001 {
 	public static void main(String[] args) {
 		int x;
