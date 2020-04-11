@@ -1,3 +1,4 @@
+// 1-12-2018 @Sameer Kapoor
 import java.util.Scanner;
 class BMICalc {
 	public static void main(String[] args) {
