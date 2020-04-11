@@ -1,3 +1,4 @@
+// 2-9-2018 @Sameer Kapoor
 import java.util.Scanner;
 class Multiples {
 	public static void main(String[] args) {
