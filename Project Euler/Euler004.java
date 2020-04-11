@@ -1,3 +1,4 @@
+// 4-3-2018 @Sameer Kapoor
 class Euler004 {
 	public static void main(String[] args) {
 		for (int x = 100; x < 999; x++) {
