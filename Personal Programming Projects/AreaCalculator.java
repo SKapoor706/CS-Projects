@@ -3,7 +3,7 @@ class AreaCalculator {
 	public static void main(String[] args) {
 		Scanner keyboard = new Scanner(System.in);
 
-		System.out.println("Shape Area Calculator version 0.1 (c) 2005 Mitchell Sample Output, Inc.");
+		System.out.println("Shape Area Calculator");
 		boolean cond = true;
 		while (cond) {
 			System.out.println("-=-=-=-=-=-=-=-=-=-=-=-=-=-");
