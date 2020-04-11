@@ -1,3 +1,4 @@
+// 1-20-2018 @Sameer Kapoor
 import java.util.Scanner;
 class AddingValuesInALoop {
 	public static void main(String[] args) {
