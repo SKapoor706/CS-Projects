@@ -7,7 +7,7 @@
    
    * Project Euler Solutions
    
-   * Link to website I created for children interested in computer science
+   * Link to website I created for students interested in computer science
    
    * AP Computer Science A final project
     
